@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Task14App.Classes
+namespace Task14App.Models
 {
     public class Division
     {
